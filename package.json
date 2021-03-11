@@ -1,7 +1,7 @@
 {
   "name": "gk-button",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "Simple Vue button component",
   "main": "dist/gkButton.ssr.js",
   "browser": "dist/gkButton.esm.js",
   "module": "dist/gkButton.esm.js",
